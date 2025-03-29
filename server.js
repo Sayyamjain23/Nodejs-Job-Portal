@@ -30,7 +30,8 @@ const options={
     },
     servers:[
         {
-            url:"https://localhost:8080"
+         //   url:"https://localhost:8080"
+            url:"https://nodejs-job-portal-4iq7.onrender.com/"
         }
     ]
     },apis:['./routes/*.js']
